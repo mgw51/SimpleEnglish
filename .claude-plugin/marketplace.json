@@ -1,8 +1,8 @@
 {
   "name": "simple-english",
   "owner": {
-    "name": "AminBlg",
-    "url": "https://github.com/AminBlg"
+    "name": "mgw51",
+    "url": "https://github.com/mgw51"
   },
   "description": "ASD-STE100 Simplified Technical English skill for clear, unambiguous technical writing.",
   "plugins": [
@@ -13,10 +13,10 @@
       "description": "Write plain, layman-readable English with the discipline of ASD-STE100 Simplified Technical English: short sentences, one word one meaning, active voice, condition before command, terms defined at first use.",
       "version": "2.0.0",
       "author": {
-        "name": "AminBlg"
+        "name": "mgw51"
       },
-      "homepage": "https://github.com/AminBlg/SimpleEnglish",
-      "repository": "https://github.com/AminBlg/SimpleEnglish",
+      "homepage": "https://github.com/mgw51/SimpleEnglish",
+      "repository": "https://github.com/mgw51/SimpleEnglish",
       "license": "MIT",
       "keywords": ["technical-writing", "documentation", "ste", "asd-ste100"]
     }
